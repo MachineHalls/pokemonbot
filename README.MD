@@ -1,0 +1,1 @@
+This project accepts a POST request from Google's Dialogflow service, connects to a very small database, and gets information out of it based on the request.
